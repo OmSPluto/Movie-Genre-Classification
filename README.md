@@ -1,7 +1,7 @@
 # Movie-Genre-Classification
 
 
-# Movie Genre Classification
+
 
 ## Overview
 This project aims to classify movie genres based on their descriptions using machine learning techniques. The dataset includes movie titles, genres, and descriptions.
@@ -17,6 +17,12 @@ This project aims to classify movie genres based on their descriptions using mac
 - [Files and Directories](#files-and-directories)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
+## Datasets
+
+You can download the datasets used in this project from the following links:
+
+- [Training Data](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
+- [Test Data](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 
 
 ## Data
