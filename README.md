@@ -17,7 +17,7 @@ This project aims to classify movie genres based on their descriptions using mac
 - [Files and Directories](#files-and-directories)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Data
 - The training data is sourced from [Dataset Location].
